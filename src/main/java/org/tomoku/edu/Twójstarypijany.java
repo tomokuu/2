@@ -7,6 +7,6 @@ public class Twójstarypijany {
 
     }
     public static void test(){
-        System.out.println("Test method called");
+        System.out.println("1 method called");
     }
 }
